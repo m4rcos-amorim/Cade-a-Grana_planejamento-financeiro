@@ -8,7 +8,7 @@ Facilitar o planejamento financeiro por meio de simulações que mostram como o 
 
 A comparação entre prazos permite visualizar o efeito dos juros compostos e do reinvestimento dos rendimentos. A correção pela inflação ajuda a interpretar o poder de compra da renda projetada em reais de hoje.
 
-https://github.com/m4rcos-amorim/Cade-a-Grana_planejamento-financeiro/blob/main/cadeagrana.png
+![Prévia da planilha Cadê a grana?](cadeagrana.png)
 
 ## O que a planilha calcula
 
