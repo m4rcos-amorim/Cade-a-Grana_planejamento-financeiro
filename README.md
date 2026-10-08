@@ -127,3 +127,5 @@ Por exemplo, com inflação constante de 4,5% ao ano, os R$ 23.403,09 mensais pr
 
 Os resultados são projeções baseadas nos parâmetros informados, e não uma promessa de rentabilidade.
 
+senha para destravar fórmulas: 123
+
